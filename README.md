@@ -1,0 +1,2 @@
+# simple-tree
+This is an implementation of a nary tree. The tree is simply a list of nodes .  Every node has an id, parent id and a templatized data. Hence the Tree class is implemented as a template class. Every node has a list of children ids.   The implementation allows for quick building of a tree. Searching a node and children should run in o(N). I am still working on an efficient way to print the tree.   There is no recursion involved   This implementation uses STL
